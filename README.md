@@ -9,6 +9,9 @@ moment.js was used to  display dates and times in JavaScript.
 
 ![photo of my assignment](./Assets/Rabiah-Hogans-work-day-planner-photo.png)
 
+
+[link to my assignment](https://rabiahfh.github.io/Work-Day-Scheduler/)
+
 ## Contributing
 
 
