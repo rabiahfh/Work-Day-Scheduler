@@ -7,7 +7,7 @@ This is my project where I created a a vertical work day scheduler from scratch.
 Local storage was implemented properly to save input and
 moment.js was used to  display dates and times in JavaScript. 
 
-![photo of my assignment](./Assets/Rabiah-Hogans-work-day-planner-photo.png)
+![photo of my assignment](Assets/Rabiah-Hogans-work-day-planner-photo.PNG)
 
 
 [link to my assignment](https://rabiahfh.github.io/Work-Day-Scheduler/)
